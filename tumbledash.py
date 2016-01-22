@@ -7,7 +7,6 @@
                       execute this program with -h flag.
     Author          : Paul Castle
     Python Version  : 3.4.2
-    TODO            : - add option to define output destination
 """
 
 import os
